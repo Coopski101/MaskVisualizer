@@ -1,7 +1,8 @@
 # MaskVisualizer
-This repo is set up similar to a NetBeans project for recreation purposes.
+*This repo is set up similar to a NetBeans project for recreation purposes.*
 
-Java program which takes files from "MaskTester" for visualization. Graphs linear regression, compares, swing GUI, JFreeChart
+Java program which takes files from "MaskTester" for visualization. Graphs linear regression, compares, swing GUI, JFreeChart.
+Accumulation of MANY ideas from my entire school year. State machines, BST, LL, Queue, Stack, O(n), Serialization, OOP, FileIO, Abstraction, GUIs.
 
 Video:
 

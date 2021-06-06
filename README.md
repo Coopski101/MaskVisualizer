@@ -5,4 +5,4 @@ Java program which takes files from "MaskTester" for visualization. Graphs linea
 
 Video:
 
-![MaskProjArduinoUML](https://user-images.githubusercontent.com/80865420/120912236-275e2a80-c653-11eb-9cfb-778df87e642a.jpg)
+![masktesterumljava](https://user-images.githubusercontent.com/80865420/120912256-46f55300-c653-11eb-866c-78792998d9f5.jpg)

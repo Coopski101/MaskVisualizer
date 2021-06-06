@@ -1,4 +1,5 @@
 # MaskVisualizer
+### See first: https://github.com/Coopski101/MaskTester
 *This repo is set up similar to a NetBeans project for recreation purposes.*
 
 Java program which takes files from "MaskTester" for visualization. Graphs linear regression, compares, swing GUI, JFreeChart.
